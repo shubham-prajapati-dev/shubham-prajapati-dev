@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Python,React<br><br>👨‍💻 All of my projects are available at <a href="https://shubham-portfolio-sooty.vercel.app/" class="new">Portfolio</a><br><br>💬 Ask me about Web development<br><br>📫 How to reach me siddharthsingh75250@gmail.com
+🌱 I’m currently learning DSA and React.js <br><br>👨‍💻 All of my projects are available at <a href="https://shubham-portfolio-sooty.vercel.app/" class="new">Portfolio</a><br><br>💬 Ask me about Web development<br><br>📫 How to reach me siddharthsingh75250@gmail.com
 
 
 ## 🌐 Socials:
