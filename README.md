@@ -57,7 +57,7 @@ A security-focused web project designed to help users analyze and identify poten
 
 **Tech:** React.js • JavaScript • MongoDB • Web Technologies
 
-🔗 [View Project](https://github.com/Itsprajapati1204/SecureScan)
+🔗 [View Project](https://github.com/shubham-prajapati-dev/SecureScan)
 
 ---
 
@@ -96,7 +96,7 @@ Currently focusing on **Data Structures & Algorithms using C++**.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Itsprajapati1204&theme=radical&hide_border=false&include_all_commits=true&count_private=false" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shubham-prajapati-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=false" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-prajapati-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180"/>
 </p>
 
