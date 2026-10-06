@@ -1,12 +1,8 @@
 <!-- Copy this folder's contents into the root of your GitHub profile repository. -->
 
 <p align="center">
-  <img src="./assets/hero.svg?v=4" width="100%" alt="Hi, I'm Shubham Singh Prajapati — MCA student and Full Stack Developer. Building web applications, AI-powered tools, and cybersecurity solutions." />
+  <img src="Neon Developer Portfolio Banner.png" width="100%" alt="Hi, I'm Shubham Singh Prajapati — MCA student and Full Stack Developer. Building web applications, AI-powered tools, and cybersecurity solutions." />
 </p>
-
-<img src="./assets/about-life.svg?v=4" width="100%" alt="Computer Applications graduate passionate about web development, AI, cybersecurity, problem solving, and building modern responsive applications." />
-
-<img src="./assets/stack.svg?v=4" width="100%" alt="My stack: C++, JavaScript, Python, React.js, HTML5, CSS3, Tailwind CSS, Material UI, Bootstrap, GSAP, Three.js, REST APIs, SQL, MongoDB, Git and GitHub." />
 
 ### 👨‍💻 About Me
 
@@ -83,8 +79,6 @@ My goal is to build useful, scalable and user-friendly software while continuous
 - Worked collaboratively through Agile workflows
 
 ### 🏆 Achievements
-
-- 🥈 **National Level Hackathon — Runner-Up**
 - ☁️ **Google Cloud Arcade Legend Tier**
 - 💻 Built a full-stack **Malware Detection Web Application**
 - ⚛️ Developed **20+ reusable React components** during internship
@@ -113,7 +107,7 @@ My goal is to build useful, scalable and user-friendly software while continuous
   &nbsp;·&nbsp;
   <a href="https://leetcode.com/">LeetCode</a>
   &nbsp;·&nbsp;
-  <a href="mailto:shubham902647@gmail.com">Email</a>
+  <a href="mailto:shubham@gmail.com">Email</a>
 </p>
 
 <p align="center">
