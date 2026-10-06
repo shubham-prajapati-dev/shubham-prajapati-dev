@@ -14,7 +14,6 @@ I'm **Shubham Singh Prajapati**, an MCA student and developer passionate about *
 - 🧩 Practicing **Data Structures & Algorithms**
 - 🛡️ Interested in **Cybersecurity and Malware Detection**
 - ☁️ **Google Cloud Arcade Legend**
-- 🏆 **National Level Hackathon Runner-Up**
 - 🎨 Experienced in **UI/UX and Graphic Design**
 
 My goal is to build useful, scalable and user-friendly software while continuously improving my development and problem-solving skills.
@@ -29,36 +28,24 @@ My goal is to build useful, scalable and user-friendly software while continuous
 
 ### 🛠️ Tech Stack
 
-**Languages**
-- C++
-- JavaScript
-- Python
+### 👨‍💻 Programming Languages
 
-**Frontend**
-- HTML5
-- CSS3
-- React.js
-- Material UI
-- Tailwind CSS
-- Bootstrap
-- Sass
-- GSAP
-- Three.js
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Backend & APIs**
-- REST APIs
-- JWT Authentication
+### 🌐 Web Development
 
-**Databases**
-- SQL
-- MongoDB
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Tools**
-- Git
-- GitHub
-- Figma
-- Adobe Photoshop
-- Adobe Illustrator
+### 🗄️ Database & Backend
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 💼 Experience
 
@@ -97,6 +84,19 @@ My goal is to build useful, scalable and user-friendly software while continuous
 - 🛡️ Exploring **Cybersecurity**
 - 🤖 Learning more about **AI integrations**
 - ☁️ Expanding my **Cloud & Backend** knowledge
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubham-prajapati-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=false" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-prajapati-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-prajapati-dev&theme=radical&hide_border=false"/>
+</p>
+
+---
 
 ### 🤝 Let's Connect
 
